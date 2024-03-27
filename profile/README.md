@@ -1,5 +1,3 @@
-## The #1 Place For Sudoku 🏅
-
 Sukudoku is an open source Sudoku creating and sharing website for anyone to enjoy. The goal is to support the majority of popular Sudoku variants, allow mixing variant types, and enable users to hand-create interesting Sudoku puzzles with the help of solvers and generators.
 
 Some features that are planned are:
