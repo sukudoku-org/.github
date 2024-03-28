@@ -1,4 +1,6 @@
-Sukudoku is an open source Sudoku creating and sharing website for anyone to enjoy. The goal is to support the majority of popular Sudoku variants, allow mixing variant types, and enable users to hand-create interesting Sudoku puzzles with the help of solvers and generators.
+Chūdoku is an open source Sudoku creating and sharing website for anyone to enjoy. The name comes from the Japanese word for addiction: solving sudoku on chudoku will hopefully be addicting 😊
+
+The long term goal is to support the majority of popular Sudoku variants plus those only playable on the computer. The website will enable users to create interesting multi-variant Sudoku puzzles with the assistance of auto-fill generation and solution checker tools.
 
 Some features that are planned are:
 - Flexible Sudoku Editor
